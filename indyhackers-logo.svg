@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="350"
+   height="350"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="indyhackers-logo.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5252"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5254" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5244"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffc000;stop-opacity:1;"
+         offset="0"
+         id="stop5246" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3796"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffc000;stop-opacity:1;"
+         offset="0"
+         id="stop3798" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5244"
+       id="linearGradient5248"
+       x1="829.20929"
+       y1="203.23418"
+       x2="1149.3844"
+       y2="203.23418"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-39.099725,30.246957)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5252"
+       id="linearGradient5287"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.45565815,0,0,0.45565815,412.48132,-96.238985)"
+       x1="877.74341"
+       y1="677.64008"
+       x2="1152.28"
+       y2="677.64008" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.51333367"
+     inkscape:cx="188.99686"
+     inkscape:cy="-228.41726"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(4.3598023e-6,2.2461563e-7)">
+    <g
+       id="g5289"
+       transform="matrix(1.0931518,0,0,1.0931518,-863.70969,-80.23033)">
+      <rect
+         y="73.393585"
+         x="790.10956"
+         height="320.17511"
+         width="320.17511"
+         id="rect3026"
+         style="fill:url(#linearGradient5248);fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <g
+         transform="translate(0.35062218,-5.0297642)"
+         id="g5277">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3014"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="matrix(0.49562477,0,0,0.53007367,764.48773,-14.851321)"><flowRegion
+             id="flowRegion3016"><rect
+               id="rect3018"
+               width="1234.2858"
+               height="320"
+               x="91.428574"
+               y="632.36218"
+               style="fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara3020"
+             style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Dosis;-inkscape-font-specification:Dosis Bold">INDYHACKERS.ORG</flowPara></flowRoot>        <g
+           id="g5272">
+          <text
+             sodipodi:linespacing="125%"
+             id="text3022"
+             y="307.53964"
+             x="946.11444"
+             style="font-size:72.18801117px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               style="font-size:259.87683105px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Dosis;-inkscape-font-specification:Dosis Bold"
+               y="307.53964"
+               x="946.11444"
+               id="tspan3024"
+               sodipodi:role="line">H</tspan></text>
+          <path
+             sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccsccccccccc"
+             inkscape:connector-curvature="0"
+             id="path5250"
+             d="m 842.50409,117.53963 6.05076,0.0304 0,7.05921 15.7992,0 0,-7.05921 72.94521,0 0,145.8904 -6.05074,0 0,7.73151 -8.74,0 0,-6.38691 -8.40379,0 0,13.44611 -6.72304,0 0,7.39538 -8.06769,0 0,15.12689 -13.10998,0 0,-7.39538 -7.73151,0 0,7.39538 -6.72314,0 0,6.38691 -7.7315,0 0,-6.05077 -7.05913,0 0,6.05077 -14.11846,0 0,-6.38691 -8.40379,0 0,6.72305 -6.05076,0 0,-6.72305 -7.39541,0 0.009,6.76123 -8.30267,0.005 c -0.0791,5e-5 -0.0364,-14.15434 -0.0364,-14.16102 l 7.65796,0 0,-7.05919 7.73152,0 0,-14.11843 6.72303,0 0,-36.97684 7.73151,0 z"
+             style="fill:url(#linearGradient5287);fill-opacity:1;stroke:none" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
