@@ -1,5 +1,5 @@
 # Indy Hackers Logo and Branding
-![](/indyhackers/logo-branding/blob/master/indyhackers-logo-small.png?raw=true)
+![](https://raw.githubusercontent.com/indyhackers/logo-branding/master/indyhackers-logo-small.png)
 
 ## Logos
 
