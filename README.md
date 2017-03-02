@@ -19,7 +19,7 @@ Heading/logo font: [Dosis](https://fonts.google.com/specimen/Dosis)
 
 ## Nomenclature
 
-* The name of this organization should appear as "Indy Hackers" when spelled out (not "IndyHackers").
+* The name of this organization should appear as "Indy Hackers" when spelled out (not "IndyHackers")
 * "IH" can be used as an abbreviation for the group
 * "indyhackers.org" can be used when referring to the website
 
