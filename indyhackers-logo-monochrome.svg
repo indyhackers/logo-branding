@@ -16,17 +16,17 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="indyhackers-logo.svg"
-   inkscape:export-filename="C:\Users\Matt\Desktop\indyhackers-logo-small.png"
-   inkscape:export-xdpi="51.428574"
-   inkscape:export-ydpi="51.428574">
+   sodipodi:docname="indyhackers-logo-monochrome.svg"
+   inkscape:export-filename="C:\Users\Matt\Desktop\indy-hackers-logo\indyhackers-logo-monochrome-small.png"
+   inkscape:export-xdpi="51.42857"
+   inkscape:export-ydpi="51.42857">
   <defs
      id="defs4">
     <linearGradient
        id="linearGradient5252"
        osb:paint="solid">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#000000;stop-opacity:1;"
          offset="0"
          id="stop5254" />
     </linearGradient>
@@ -49,19 +49,19 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5244"
-       id="linearGradient5248"
+       id="linearGradient3011"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0931518,0,0,1.0931518,-906.45162,-47.165815)"
        x1="829.20929"
        y1="203.23418"
        x2="1149.3844"
-       y2="203.23418"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-39.099725,30.246957)" />
+       y2="203.23418" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5252"
-       id="linearGradient5287"
+       id="linearGradient3026"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.45565815,0,0,0.45565815,412.48132,-96.238985)"
+       gradientTransform="matrix(0.49810353,0,0,0.49810353,-412.42171,-190.93245)"
        x1="877.74341"
        y1="677.64008"
        x2="1152.28"
@@ -75,7 +75,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.51333367"
-     inkscape:cx="188.99686"
+     inkscape:cx="-114.89904"
      inkscape:cy="-228.41726"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -106,54 +106,36 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(4.3598023e-6,2.2461563e-7)">
-    <g
-       id="g5289"
-       transform="matrix(1.0931518,0,0,1.0931518,-863.70969,-80.23033)">
-      <rect
-         y="73.393585"
-         x="790.10956"
-         height="320.17511"
-         width="320.17511"
-         id="rect3026"
-         style="fill:url(#linearGradient5248);fill-opacity:1;fill-rule:evenodd;stroke:none" />
-      <g
-         transform="translate(0.35062218,-5.0297642)"
-         id="g5277">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3014"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-           transform="matrix(0.49562477,0,0,0.53007367,764.48773,-14.851321)"><flowRegion
-             id="flowRegion3016"><rect
-               id="rect3018"
-               width="1234.2858"
-               height="320"
-               x="91.428574"
-               y="632.36218"
-               style="fill:#ffffff" /></flowRegion><flowPara
-             id="flowPara3020"
-             style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Dosis;-inkscape-font-specification:Dosis Bold">INDYHACKERS.ORG</flowPara></flowRoot>        <g
-           id="g5272">
-          <text
-             sodipodi:linespacing="125%"
-             id="text3022"
-             y="307.53964"
-             x="946.11444"
-             style="font-size:72.18801117px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-             xml:space="preserve"><tspan
-               style="font-size:259.87683105px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Dosis;-inkscape-font-specification:Dosis Bold"
-               y="307.53964"
-               x="946.11444"
-               id="tspan3024"
-               sodipodi:role="line">H</tspan></text>
-          <path
-             sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccsccccccccc"
-             inkscape:connector-curvature="0"
-             id="path5250"
-             d="m 842.50409,117.53963 6.05076,0.0304 0,7.05921 15.7992,0 0,-7.05921 72.94521,0 0,145.8904 -6.05074,0 0,7.73151 -8.74,0 0,-6.38691 -8.40379,0 0,13.44611 -6.72304,0 0,7.39538 -8.06769,0 0,15.12689 -13.10998,0 0,-7.39538 -7.73151,0 0,7.39538 -6.72314,0 0,6.38691 -7.7315,0 0,-6.05077 -7.05913,0 0,6.05077 -14.11846,0 0,-6.38691 -8.40379,0 0,6.72305 -6.05076,0 0,-6.72305 -7.39541,0 0.009,6.76123 -8.30267,0.005 c -0.0791,5e-5 -0.0364,-14.15434 -0.0364,-14.16102 l 7.65796,0 0,-7.05919 7.73152,0 0,-14.11843 6.72303,0 0,-36.97684 7.73151,0 z"
-             style="fill:url(#linearGradient5287);fill-opacity:1;stroke:none" />
-        </g>
-      </g>
-    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3014"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.54179311,0,0,0.57945099,-27.625272,-101.96337)"><flowRegion
+         id="flowRegion3016"><rect
+           id="rect3018"
+           width="1234.2858"
+           height="320"
+           x="91.428574"
+           y="632.36218"
+           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3020"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Dosis;-inkscape-font-specification:Dosis Bold;fill-opacity:1">INDYHACKERS.ORG</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:78.91245270000000300px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="170.92029"
+       y="250.45889"
+       id="text3022"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3024"
+         x="170.92029"
+         y="250.45889"
+         style="font-size:284.08483887000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Dosis;-inkscape-font-specification:Dosis Bold;fill-opacity:1">H</tspan></text>
+    <path
+       style="fill:url(#linearGradient3026);fill-opacity:1;stroke:none"
+       d="m 57.658452,42.760032 6.6144,0.03323 0,7.716788 17.270924,0 0,-7.716788 79.740184,0 0,159.480356 -6.61437,0 0,8.45171 -9.55415,0 0,-6.98186 -9.18662,0 0,14.69864 -7.3493,0 0,8.08427 -8.81921,0 0,16.53599 -14.3312,0 0,-8.08427 -8.451714,0 0,8.08427 -7.349413,0 0,6.98186 -8.451703,0 0,-6.61441 -7.716701,0 0,6.61441 -15.43362,0 0,-6.98186 -9.186618,0 0,7.34931 -6.614399,0 0,-7.34931 -8.084306,0 0.0098,7.39105 -9.076078,0.005 c -0.08647,5e-5 -0.03979,-15.47285 -0.03979,-15.48015 l 8.371313,0 0,-7.71677 8.451725,0 0,-15.43358 7.349292,0 0,-40.4213 8.451714,0 z"
+       id="path5250"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccsccccccccc" />
   </g>
 </svg>

@@ -16,10 +16,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="indyhackers-logo.svg"
-   inkscape:export-filename="C:\Users\Matt\Desktop\indyhackers-logo-small.png"
-   inkscape:export-xdpi="51.428574"
-   inkscape:export-ydpi="51.428574">
+   sodipodi:docname="indyhackers-logo-no-text.svg"
+   inkscape:export-filename="C:\Users\Matt\Desktop\indy-hackers-logo\indyhackers-logo-no-text-small.png"
+   inkscape:export-xdpi="51.42857"
+   inkscape:export-ydpi="51.42857">
   <defs
      id="defs4">
     <linearGradient
@@ -66,6 +66,36 @@
        y1="677.64008"
        x2="1152.28"
        y2="677.64008" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5244"
+       id="linearGradient3011"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0931518,0,0,1.0931518,-906.45162,-47.165815)"
+       x1="829.20929"
+       y1="203.23418"
+       x2="1149.3844"
+       y2="203.23418" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5252"
+       id="linearGradient3013"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.45565815,0,0,0.45565815,412.48132,-96.238985)"
+       x1="877.74341"
+       y1="677.64008"
+       x2="1152.28"
+       y2="677.64008" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5252"
+       id="linearGradient3023"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.45565815,0,0,0.45565815,412.48132,-96.238985)"
+       x1="877.74341"
+       y1="677.64008"
+       x2="1152.28"
+       y2="677.64008" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -75,7 +105,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.51333367"
-     inkscape:cx="188.99686"
+     inkscape:cx="-43.795195"
      inkscape:cy="-228.41726"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -106,54 +136,34 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(4.3598023e-6,2.2461563e-7)">
+    <rect
+       style="fill:url(#linearGradient3011);fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3026"
+       width="350"
+       height="350"
+       x="-4.3598025e-006"
+       y="-2.2461548e-007" />
     <g
-       id="g5289"
-       transform="matrix(1.0931518,0,0,1.0931518,-863.70969,-80.23033)">
-      <rect
-         y="73.393585"
-         x="790.10956"
-         height="320.17511"
-         width="320.17511"
-         id="rect3026"
-         style="fill:url(#linearGradient5248);fill-opacity:1;fill-rule:evenodd;stroke:none" />
-      <g
-         transform="translate(0.35062218,-5.0297642)"
-         id="g5277">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3014"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-           transform="matrix(0.49562477,0,0,0.53007367,764.48773,-14.851321)"><flowRegion
-             id="flowRegion3016"><rect
-               id="rect3018"
-               width="1234.2858"
-               height="320"
-               x="91.428574"
-               y="632.36218"
-               style="fill:#ffffff" /></flowRegion><flowPara
-             id="flowPara3020"
-             style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Dosis;-inkscape-font-specification:Dosis Bold">INDYHACKERS.ORG</flowPara></flowRoot>        <g
-           id="g5272">
-          <text
-             sodipodi:linespacing="125%"
-             id="text3022"
-             y="307.53964"
-             x="946.11444"
-             style="font-size:72.18801117px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-             xml:space="preserve"><tspan
-               style="font-size:259.87683105px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Dosis;-inkscape-font-specification:Dosis Bold"
-               y="307.53964"
-               x="946.11444"
-               id="tspan3024"
-               sodipodi:role="line">H</tspan></text>
-          <path
-             sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccsccccccccc"
-             inkscape:connector-curvature="0"
-             id="path5250"
-             d="m 842.50409,117.53963 6.05076,0.0304 0,7.05921 15.7992,0 0,-7.05921 72.94521,0 0,145.8904 -6.05074,0 0,7.73151 -8.74,0 0,-6.38691 -8.40379,0 0,13.44611 -6.72304,0 0,7.39538 -8.06769,0 0,15.12689 -13.10998,0 0,-7.39538 -7.73151,0 0,7.39538 -6.72314,0 0,6.38691 -7.7315,0 0,-6.05077 -7.05913,0 0,6.05077 -14.11846,0 0,-6.38691 -8.40379,0 0,6.72305 -6.05076,0 0,-6.72305 -7.39541,0 0.009,6.76123 -8.30267,0.005 c -0.0791,5e-5 -0.0364,-14.15434 -0.0364,-14.16102 l 7.65796,0 0,-7.05919 7.73152,0 0,-14.11843 6.72303,0 0,-36.97684 7.73151,0 z"
-             style="fill:url(#linearGradient5287);fill-opacity:1;stroke:none" />
-        </g>
-      </g>
+       id="g5272"
+       transform="matrix(1.0931518,0,0,1.0931518,-863.32641,-57.338086)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3022"
+         y="307.53964"
+         x="946.11444"
+         style="font-size:72.18801117px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:259.87683105px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Dosis;-inkscape-font-specification:Dosis Bold"
+           y="307.53964"
+           x="946.11444"
+           id="tspan3024"
+           sodipodi:role="line">H</tspan></text>
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccsccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5250"
+         d="m 842.50409,117.53963 6.05076,0.0304 0,7.05921 15.7992,0 0,-7.05921 72.94521,0 0,145.8904 -6.05074,0 0,7.73151 -8.74,0 0,-6.38691 -8.40379,0 0,13.44611 -6.72304,0 0,7.39538 -8.06769,0 0,15.12689 -13.10998,0 0,-7.39538 -7.73151,0 0,7.39538 -6.72314,0 0,6.38691 -7.7315,0 0,-6.05077 -7.05913,0 0,6.05077 -14.11846,0 0,-6.38691 -8.40379,0 0,6.72305 -6.05076,0 0,-6.72305 -7.39541,0 0.009,6.76123 -8.30267,0.005 c -0.0791,5e-5 -0.0364,-14.15434 -0.0364,-14.16102 l 7.65796,0 0,-7.05919 7.73152,0 0,-14.11843 6.72303,0 0,-36.97684 7.73151,0 z"
+         style="fill:url(#linearGradient3023);fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>
