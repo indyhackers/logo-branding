@@ -1,4 +1,5 @@
 # Indy Hackers Logo and Branding
+![](/indyhackers/logo-branding/blob/master/indyhackers-logo-small.png?raw=true)
 
 ## Logos
 
@@ -9,7 +10,9 @@ The "no text" logo should only be used when Indy Hackers is already displayed ne
 ## Styles
 
 "Orange/yellow": `#FFC000`
+
 White: `#FFFFFF`
+
 Black: `#000000`
 
 Heading/logo font: [Dosis](https://fonts.google.com/specimen/Dosis)
