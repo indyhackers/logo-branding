@@ -26,7 +26,8 @@ Heading/logo font: [Dosis](https://fonts.google.com/specimen/Dosis)
 Formal names:
 
 * The newsletter is "Hacks && Happenings" (sic: stylized double-ampersand)
-* The yearly winter party is "Holiday Social"
+* The yearly winter event is "Holiday Social"
+* The yearly summer event is "Summer Slam"
 
 ## Official accounts
 
